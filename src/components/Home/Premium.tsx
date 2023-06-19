@@ -110,7 +110,7 @@ function Premium() {
         </TabPanel>
       ))}
 
-      <Button href="#" variant="contained" sx={{ padding: "1rem", marginTop: "2rem" }}>
+      <Button href="/shop" variant="contained" sx={{ padding: "1rem", marginTop: "2rem" }}>
         Find Out More
       </Button>
     </Box>

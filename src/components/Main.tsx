@@ -51,7 +51,7 @@ function Main(props: {
             vel dolores reiciendis laudantium pariatur repudiandae tempora?
           </Typography>
           {moreButton && (
-            <Button href="#" variant="contained" sx={{ padding: "1rem" }}>
+            <Button href="/shop" variant="contained" sx={{ padding: "1rem" }}>
               Find Out More
             </Button>
           )}
